@@ -1,6 +1,6 @@
 {
   "name": "easyHttp2",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "a http request maker using ES6 stuffs",
   "main": "index.js",
   "scripts": {
